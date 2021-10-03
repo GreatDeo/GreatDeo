@@ -1,14 +1,10 @@
-## Hi there, I'm Hang Zhang (张航) 👋
+## Hi there, I'm Hang Zhang (张航) 🥸
 
 #### :raised_hand: About Me
-
-
 
 - 🌟 Motto: Whether you think you can or you think you can't, you are right.
 - 🌱 Hobby: Coding & 🎹 Piano & 🎮 Video Game & 🪘 Long Drum & more.
 - 🏡 Hometown: China
-
-
 - Nice to hear from you!
 
 #### 🛠 Languages and Tools
